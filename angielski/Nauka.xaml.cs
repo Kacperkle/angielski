@@ -32,7 +32,7 @@ namespace angielski
         }
         public void Losowanie()
         {
-            string path = "C:\\Users\\kacpe\\source\\repos\\angielski\\angielski\\slowka.txt";
+            string path = "slowka.txt";
             string[] wiersze = File.ReadAllLines(path);
             int liczba = random.Next(0, wiersze.Length);
             string wylosowanyWiersz = wiersze[liczba];
