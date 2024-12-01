@@ -19,8 +19,8 @@ seventeen-siedemnaście
 eighteen-osiemnaście
 nineteen-dziewiętnaście
 twenty-dwadzieścia
-twenty-one-dwadzieściajeden
-twenty-two-dwadzieściadwa
+twenty one-dwadzieściajeden
+twenty two-dwadzieściadwa
 thirty-trzydzieści
 forty-czterdzieści
 fifty-pięćdziesiąt
@@ -31,7 +31,7 @@ ninety-dziewięćdziesiąt
 hundred-sto
 thousand-tysiąc
 what-co
-where-gzie
+where-gdzie
 when-kiedy
 how-jak
 who-kto
